@@ -12,8 +12,8 @@ while executando:
 
 
 
-    # Atualiza a tela
-    tela.fill((0, 0, 0))
+    # Atualiza a screen
+    screen.fill((0, 0, 0))
     mechanics_force_acceleration()
     mechanics_collision_screen()
     fields_draw()
