@@ -18,4 +18,5 @@ Este é um programa desenvolvido em Python para simular fenômenos físicos, com
 ## Como Usar
 
 1. Instale as dependências executando `pip install -r requirements.txt`.
-2. Execute o programa com o comando `U2d.py`.
+2. Configure em `functions.py`
+3. Execute o programa com o comando `U2d.py`.
